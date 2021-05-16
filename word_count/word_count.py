@@ -10,6 +10,3 @@ def prompt_user():
     print(count_words(userInput))
 
     return 0
-
-
-prompt_user()
